@@ -1,0 +1,813 @@
+Monday No Classn->n p->p No Class
+Tuesday m->m No ClassNo ClassNo Class
+Wednesday o->o No ClassNo ClassNo Class
+Thursday No ClassNo ClassNo ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday No Classo->o No ClassNo Class
+Tuesday No ClassNo Classp->p No Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No ClassNo ClassNo ClassNo Class
+Friday n->n No ClassNo Classm->m 
+
+
+
+
+
+Monday No Classo->o No ClassNo Class
+Tuesday No ClassNo Classp->p No Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No ClassNo ClassNo ClassNo Class
+Friday n->n No ClassNo Classm->m 
+
+
+
+
+
+Monday No Classo->o No ClassNo Class
+Tuesday No ClassNo Classp->p No Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No ClassNo ClassNo ClassNo Class
+Friday n->n No ClassNo Classm->m 
+
+
+
+
+
+Monday No Classo->o No ClassNo Class
+Tuesday No ClassNo Classp->p No Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No ClassNo ClassNo ClassNo Class
+Friday n->n No ClassNo Classm->m 
+
+
+
+
+
+Monday No Classo->o No ClassNo Class
+Tuesday No ClassNo Classp->p No Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No ClassNo ClassNo ClassNo Class
+Friday n->n No ClassNo Classm->m 
+
+
+
+
+
+Monday No Classn->n p->p No Class
+Tuesday m->m No ClassNo ClassNo Class
+Wednesday o->o No ClassNo Classo->o 
+Thursday No ClassNo ClassNo ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday No Classn->n p->p No Class
+Tuesday m->m No ClassNo ClassNo Class
+Wednesday o->o No ClassNo Classo->o 
+Thursday No ClassNo ClassNo ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday No Classn->n p->p No Class
+Tuesday m->m No ClassNo ClassNo Class
+Wednesday o->o No ClassNo Classo->o 
+Thursday No ClassNo ClassNo ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday No Classn->n p->p No Class
+Tuesday m->m No ClassNo ClassNo Class
+Wednesday o->o No ClassNo Classo->o 
+Thursday No ClassNo ClassNo ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m n->n p->p No Class
+Tuesday p->p No ClassNo ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No ClassNo ClassNo ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No ClassNo ClassNo Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No ClassNo ClassNo Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m n->n p->p No Class
+Tuesday p->p No ClassNo ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No ClassNo ClassNo ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No ClassNo ClassNo Class
+Tuesday p->p No ClassNo ClassNo Class
+Wednesday No ClassNo Classn->n No Class
+Thursday No ClassNo ClassNo ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday No Classo->o No ClassNo Class
+Tuesday No ClassNo Classp->p No Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No ClassNo ClassNo ClassNo Class
+Friday n->n No ClassNo Classn->n 
+
+
+
+
+
+Monday No Classn->n p->p No Class
+Tuesday m->m No ClassNo ClassNo Class
+Wednesday o->o No ClassNo ClassNo Class
+Thursday No ClassNo ClassNo ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday No Classo->o No ClassNo Class
+Tuesday No ClassNo Classp->p No Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No ClassNo ClassNo ClassNo Class
+Friday n->n No ClassNo Classn->n 
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo Classo->o 
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wednesday No ClassNo ClassNo ClassNo Class
+Thursday No Classm->m No ClassNo Class
+Friday No ClassNo ClassNo ClassNo Class
+
+
+
+
+
+Monday m->m No Classp->p No Class
+Tuesday p->p n->n No ClassNo Class
+Wedne
